@@ -20,7 +20,7 @@ The analyzed data can be used by businesses to select the suitable channels to a
 The data can be used in making economic decisions since it highlights disparities in consumer responses which relate to economic conditions or cultural preferences across counties.
 #### Optimizing spending
 This data can be used by businesses to identify counties with high ROI hence allocate resources more effectively.
-### How relevant is the dataset to Kenya?
+### How relevant is the dataset to Kenyan Market?
 The dataset reflects real-world advertising dynamics in the Kenyan market where consumer preferences vary significantly due to factors like urbanization, internet penetration, and cultural backgrounds.It provides localized insights which is critical for businesses advertising agencies, and policymakers to make data-driven decisions.
 
 
